@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admin 2.0 milestone 6", "Admin 2.0 milestone 6\Admin 2.0 milestone 6.csproj", "{AC464AA8-F6AA-4FC3-A7E8-ECD081B4432B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC464AA8-F6AA-4FC3-A7E8-ECD081B4432B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC464AA8-F6AA-4FC3-A7E8-ECD081B4432B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC464AA8-F6AA-4FC3-A7E8-ECD081B4432B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC464AA8-F6AA-4FC3-A7E8-ECD081B4432B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

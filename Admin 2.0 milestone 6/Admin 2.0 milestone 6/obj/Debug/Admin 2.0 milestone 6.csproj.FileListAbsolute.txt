@@ -1,0 +1,41 @@
+G:\סייבר - פרויקט\אבן דרך 6\Admin 2.0 milestone 6\Admin 2.0 milestone 6\bin\Debug\Admin 2.0 milestone 6.exe.config
+J:\סייבר - פרויקט\אבן דרך 6\Admin 2.0 milestone 6\Admin 2.0 milestone 6\bin\Debug\Admin 2.0 milestone 6.exe.config
+J:\סייבר - פרויקט\אבן דרך 6\Admin 2.0 milestone 6\Admin 2.0 milestone 6\bin\Debug\Admin 2.0 milestone 6.exe
+J:\סייבר - פרויקט\אבן דרך 6\Admin 2.0 milestone 6\Admin 2.0 milestone 6\bin\Debug\Admin 2.0 milestone 6.pdb
+J:\סייבר - פרויקט\אבן דרך 6\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin 2.0 milestone 6.csprojResolveAssemblyReference.cache
+J:\סייבר - פרויקט\אבן דרך 6\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin_2._0_milestone_6.Form1.resources
+J:\סייבר - פרויקט\אבן דרך 6\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin_2._0_milestone_6.Properties.Resources.resources
+J:\סייבר - פרויקט\אבן דרך 6\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin 2.0 milestone 6.csproj.GenerateResource.Cache
+J:\סייבר - פרויקט\אבן דרך 6\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin 2.0 milestone 6.exe
+J:\סייבר - פרויקט\אבן דרך 6\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin 2.0 milestone 6.pdb
+J:\Cyber project\Milestone 6\Admin 2.0 milestone 6\Admin 2.0 milestone 6\bin\Debug\Admin 2.0 milestone 6.exe.config
+J:\Cyber project\Milestone 6\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin 2.0 milestone 6.exe
+J:\Cyber project\Milestone 6\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin 2.0 milestone 6.pdb
+J:\Cyber project\Milestone 6\Admin 2.0 milestone 6\Admin 2.0 milestone 6\bin\Debug\Admin 2.0 milestone 6.exe
+J:\Cyber project\Milestone 6\Admin 2.0 milestone 6\Admin 2.0 milestone 6\bin\Debug\Admin 2.0 milestone 6.pdb
+J:\Cyber project\Milestone 6\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin 2.0 milestone 6.csprojResolveAssemblyReference.cache
+J:\Cyber project\Milestone 6\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin_2._0_milestone_6.Form1.resources
+J:\Cyber project\Milestone 6\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin_2._0_milestone_6.Properties.Resources.resources
+J:\Cyber project\Milestone 6\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin 2.0 milestone 6.csproj.GenerateResource.Cache
+J:\Cyber project\Milestone 6\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin_2._0_milestone_6.Form2.resources
+J:\Cyber project\MileStone 7\Admin 2.0 milestone 6\Admin 2.0 milestone 6\bin\Debug\Admin 2.0 milestone 6.exe.config
+J:\Cyber project\MileStone 7\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin 2.0 milestone 6.exe
+J:\Cyber project\MileStone 7\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin 2.0 milestone 6.pdb
+J:\Cyber project\MileStone 7\Admin 2.0 milestone 6\Admin 2.0 milestone 6\bin\Debug\Admin 2.0 milestone 6.exe
+J:\Cyber project\MileStone 7\Admin 2.0 milestone 6\Admin 2.0 milestone 6\bin\Debug\Admin 2.0 milestone 6.pdb
+J:\Cyber project\MileStone 7\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin 2.0 milestone 6.csprojResolveAssemblyReference.cache
+J:\Cyber project\MileStone 7\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin_2._0_milestone_6.Form1.resources
+J:\Cyber project\MileStone 7\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin_2._0_milestone_6.Form2.resources
+J:\Cyber project\MileStone 7\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin_2._0_milestone_6.Properties.Resources.resources
+J:\Cyber project\MileStone 7\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin 2.0 milestone 6.csproj.GenerateResource.Cache
+C:\Users\u101040\Desktop\MileStone 7\Admin 2.0 milestone 6\Admin 2.0 milestone 6\bin\Debug\Admin 2.0 milestone 6.exe.config
+C:\Users\u101040\Desktop\MileStone 7\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin 2.0 milestone 6.exe
+C:\Users\u101040\Desktop\MileStone 7\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin 2.0 milestone 6.pdb
+C:\Users\u101040\Desktop\MileStone 7\Admin 2.0 milestone 6\Admin 2.0 milestone 6\bin\Debug\Admin 2.0 milestone 6.exe
+C:\Users\u101040\Desktop\MileStone 7\Admin 2.0 milestone 6\Admin 2.0 milestone 6\bin\Debug\Admin 2.0 milestone 6.pdb
+C:\Users\u101040\Desktop\MileStone 7\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin 2.0 milestone 6.csprojResolveAssemblyReference.cache
+C:\Users\u101040\Desktop\MileStone 7\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin_2._0_milestone_6.Form1.resources
+C:\Users\u101040\Desktop\MileStone 7\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin_2._0_milestone_6.Form2.resources
+C:\Users\u101040\Desktop\MileStone 7\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin_2._0_milestone_6.Properties.Resources.resources
+C:\Users\u101040\Desktop\MileStone 7\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin 2.0 milestone 6.csproj.GenerateResource.Cache
+J:\Cyber project\MileStone 7\Admin 2.0 milestone 6\Admin 2.0 milestone 6\obj\Debug\Admin_2._0_milestone_6.LoginForm.resources

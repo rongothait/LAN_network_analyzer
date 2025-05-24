@@ -1,0 +1,34 @@
+C:\Client Milestone4\Client Milestone4\bin\Debug\Client Milestone4.exe.config
+J:\סייבר - פרויקט\אבן דרך 4\Client Milestone4\Client Milestone4\bin\Debug\Client Milestone4.exe.config
+J:\סייבר - פרויקט\אבן דרך 4\Client Milestone4\Client Milestone4\bin\Debug\Client Milestone4.exe
+J:\סייבר - פרויקט\אבן דרך 4\Client Milestone4\Client Milestone4\bin\Debug\Client Milestone4.pdb
+J:\סייבר - פרויקט\אבן דרך 4\Client Milestone4\Client Milestone4\obj\Debug\Client Milestone4.exe
+J:\סייבר - פרויקט\אבן דרך 4\Client Milestone4\Client Milestone4\obj\Debug\Client Milestone4.pdb
+J:\סייבר - פרויקט\אבן דרך 4\Client Milestone4\Client Milestone4\obj\Debug\Client Milestone4.csprojResolveAssemblyReference.cache
+F:\סייבר - פרויקט\אבן דרך 4\Client Milestone4\Client Milestone4\bin\Debug\Client Milestone4.exe.config
+F:\סייבר - פרויקט\אבן דרך 4\Client Milestone4\Client Milestone4\obj\Debug\Client Milestone4.exe
+F:\סייבר - פרויקט\אבן דרך 4\Client Milestone4\Client Milestone4\obj\Debug\Client Milestone4.pdb
+J:\סייבר - פרויקט\אבן דרך 5\Client Milestone4\Client Milestone4\bin\Debug\Client Milestone4.exe.config
+J:\סייבר - פרויקט\אבן דרך 5\Client Milestone4\Client Milestone4\obj\Debug\Client Milestone4.exe
+J:\סייבר - פרויקט\אבן דרך 5\Client Milestone4\Client Milestone4\obj\Debug\Client Milestone4.pdb
+J:\סייבר - פרויקט\אבן דרך 5\Client Milestone4\Client Milestone4\bin\Debug\Client Milestone4.exe
+J:\סייבר - פרויקט\אבן דרך 5\Client Milestone4\Client Milestone4\bin\Debug\Client Milestone4.pdb
+J:\סייבר - פרויקט\אבן דרך 5\Client Milestone4\Client Milestone4\obj\Debug\Client Milestone4.csprojResolveAssemblyReference.cache
+G:\סייבר - פרויקט\אבן דרך 5\Client Milestone4\Client Milestone4\bin\Debug\Client Milestone4.exe.config
+G:\סייבר - פרויקט\אבן דרך 5\Client Milestone4\Client Milestone4\obj\Debug\Client Milestone4.exe
+G:\סייבר - פרויקט\אבן דרך 5\Client Milestone4\Client Milestone4\obj\Debug\Client Milestone4.pdb
+J:\Cyber project\MileStone 5\Client Milestone4\Client Milestone4\bin\Debug\Client Milestone4.exe.config
+J:\Cyber project\MileStone 5\Client Milestone4\Client Milestone4\obj\Debug\Client Milestone4.exe
+J:\Cyber project\MileStone 5\Client Milestone4\Client Milestone4\obj\Debug\Client Milestone4.pdb
+J:\Cyber project\MileStone 5\Client Milestone4\Client Milestone4\bin\Debug\Client Milestone4.exe
+J:\Cyber project\MileStone 5\Client Milestone4\Client Milestone4\bin\Debug\Client Milestone4.pdb
+J:\Cyber project\MileStone 5\Client Milestone4\Client Milestone4\obj\Debug\Client Milestone4.csprojResolveAssemblyReference.cache
+G:\Cyber project\MileStone 5\Client Milestone4\Client Milestone4\bin\Debug\Client Milestone4.exe.config
+G:\Cyber project\MileStone 5\Client Milestone4\Client Milestone4\obj\Debug\Client Milestone4.exe
+G:\Cyber project\MileStone 5\Client Milestone4\Client Milestone4\obj\Debug\Client Milestone4.pdb
+J:\Cyber project\MileStone 7\Client Milestone4\Client Milestone4\bin\Debug\Client Milestone4.exe.config
+J:\Cyber project\MileStone 7\Client Milestone4\Client Milestone4\obj\Debug\Client Milestone4.exe
+J:\Cyber project\MileStone 7\Client Milestone4\Client Milestone4\obj\Debug\Client Milestone4.pdb
+J:\Cyber project\MileStone 7\Client Milestone4\Client Milestone4\bin\Debug\Client Milestone4.exe
+J:\Cyber project\MileStone 7\Client Milestone4\Client Milestone4\bin\Debug\Client Milestone4.pdb
+J:\Cyber project\MileStone 7\Client Milestone4\Client Milestone4\obj\Debug\Client Milestone4.csprojResolveAssemblyReference.cache
